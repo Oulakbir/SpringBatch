@@ -46,8 +46,8 @@ Ce projet implémente un job **Spring Batch** pour traiter une liste de commande
 
 1. **Cloner le projet** :
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/Oulakbir/SpringBatch.git
+   cd SpringBatch
    ```
 
 2. **Configurer les propriétés** :
